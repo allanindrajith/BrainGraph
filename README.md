@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/allanidrajith)
 
 **Zero-cost, local-first persistent memory and AST code-graph MCP server** for **Antigravity**, **Codex**, **Claude Code**, **Cursor**, and **Gemini CLI**.
 
@@ -110,9 +110,7 @@ BRAINGRAPH_TOKEN="your-secret-token" python3 brain_mcp.py --http --port 8080
 
 If BrainGraph saves you tokens and time, consider supporting the project:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
-
-> Replace `YOUR_USERNAME` in the badge links above with your Buy Me a Coffee handle.
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/allanidrajith)
 
 ## License
 
